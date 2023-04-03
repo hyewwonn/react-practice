@@ -6,17 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>react 연습</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          index.html의 root div에 react로 작성한 내용이 들어감
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
